@@ -1,2 +1,2 @@
 # hello-word
-Following the get started tutorial
+Following the get started tutorial to practice how all this works.
